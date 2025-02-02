@@ -5,8 +5,8 @@
 ESP8266WebServer server(80);
 
 // WiFi credentials
-const char* ssid = "Redmi 9 Prime"; 
-const char* pass = "25418125"; 
+const char* ssid = "ABC";     // add Wi-Fi Name
+const char* pass = "XYZ";     // add Wi-Fi Password
 
 // Define component pins
 #define led1 D1
